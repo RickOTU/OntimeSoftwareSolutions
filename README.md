@@ -3,7 +3,7 @@
 ### Name:
 On-Time Software Solutions
 ### Members:
-Rick, Fraser, Saeem Patel, Dev Shah, Kseniya Kolokolkina, and Mathew Lee
+Rick Fraser, Saeem Patel, Mridul Sharma, Kseniya Kolokolkina, and Mathew Lee
 ### Roles:
 Project Manager: Rick Fraser
 Technical Manager: Saeem Patel
